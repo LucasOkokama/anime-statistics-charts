@@ -30,8 +30,8 @@ Os scripts têm como objetivo gerar gráficos html e tabelas no excel a respeito
 
 
 ## Stats
-É o local onde os `gráficos e estatísticas` aparecerão depois de executar o script. Eles serão gerados com textos simples nas próprias células do Excel, portanto não são exatamente um gráfico formatado\
-Aqui você **não deverá escrever nada**.
+É o local onde as `tabelas e ranking de estatísticas` aparecerão após executar o Script. Eles serão gerados com textos simples nas próprias células do Excel.\
+Aqui você **não deverá escrever nada**, pois diversas células possuem seus dados apagados para gerarem novas informações.
 
 ## DoNothing
 Guia para fazer anotações. Não possui relação alguma com os scripts.
@@ -67,14 +67,14 @@ pip install openpyxl
 > [!WARNING]  
 > Os seguintes comandos devem ser executados com o arquivo Excel **FECHADO**
 
-Siga o passo a passo para gerar os gráficos no excel e html.
+Siga o passo a passo para gerar os gráficos no Excel e HTML.
 
-1. Inicialize o CMD na `pasta raiz` do proejeto (local onde está localizado o arquivo `animelist-stats.py`)
-2. **Com o arquivo Excel fechado**, digite o seguinte comando:
+1. Inicialize o CMD na `pasta raiz` do projeto (local onde está localizado o arquivo `animelist-stats.py`)
+2. Digite o seguinte comando:
 ```
 py animelist-stats.py
 ```
-3. Acesse o arquivo Excel para visualizar as tabelas, ou abra os arquivos html para visualizar os gráficos gerados.
+3. Acesse o arquivo Excel para visualizar as tabelas, ou abra os arquivos HTML (gerados no próprio root) para visualizar os gráficos.
 
 
 ---
