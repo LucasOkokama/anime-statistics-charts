@@ -90,3 +90,20 @@ Por exemplo, se definir `qtd_minima_estudio = 5`, isso quer dizer que qualquer e
 
 2. `num_max_print_xxxx` (xxxx por significar classind, tipo, fonte, ano e etc...): Aqui você pode definir o número de linhas que uma tabela/ranking deve ter.\
 Por exemplo, se definir `num_max_print_ano = 10`, isso quer dizer que a tabela/ranking terá no máximo 10 linhas, formando um "top 10".
+
+<br><br><br><br><br>
+
+---
+# Imagens do Projeto
+## Rankings/Tabelas no Excel
+![Stats Gerais](/readme-images/stats_gerais.png)
+![Stats Gerais de Demografia](/readme-images/stats_gerais_demografia.png)
+![Stats Gerais de Estreia](/readme-images/stats_gerais_estreia.png)
+![Ranking de Franquia](/readme-images/mais_maior_franquia.png)
+![Ranking de Franquia](/readme-images/mais_maior_estudio.png)
+
+## Gráficos HTML
+![Grafico de Ano](/readme-images/grafico_ano.png)
+![Grafico de Fonte](/readme-images/grafico_fonte.png)
+![Grafico de Genero](/readme-images/grafico_genero.png)
+![Grafico de Tema](/readme-images/grafico_tema.png)
