@@ -1,5 +1,5 @@
 # Sobre o projeto
-Este simples projeto foi feito com o intuíto de estudar um pouco de manipulação de Dataframes com [Pandas](https://pandas.pydata.org/), arquivos Excel com [Openpyxl](https://openpyxl.readthedocs.io/), e criação de gráficos com [Plotly](https://plotly.com/).\
+Este simples projeto foi feito com o intuito de estudar um pouco de manipulação de Dataframes com [Pandas](https://pandas.pydata.org/), arquivos Excel com [Openpyxl](https://openpyxl.readthedocs.io/), e criação de gráficos com [Plotly](https://plotly.com/).\
 \
 Os scripts têm como objetivo gerar gráficos html e tabelas no excel a respeito dos dados presentes na tabela, ajudando a análisar diversas informações a respeito dos animes registrados.
 
